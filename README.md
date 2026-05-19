@@ -1,4 +1,4 @@
 # first-demo
 this is my first git repository 
 <br>
-author name : aryan meena 
+author name : aryan meena (aryan tatawat)
